@@ -201,7 +201,7 @@ ELAN-Cafe-Sales-Intelligence/
 
 # Author
 
-**Shahid Sayyed**
+Shahid Sayyed
 
 Aspiring Data Analyst
 
